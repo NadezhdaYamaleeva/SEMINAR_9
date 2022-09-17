@@ -1,0 +1,15 @@
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\bin\Debug\net6.0\Case68.exe
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\bin\Debug\net6.0\Case68.deps.json
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\bin\Debug\net6.0\Case68.runtimeconfig.json
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\bin\Debug\net6.0\Case68.dll
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\bin\Debug\net6.0\Case68.pdb
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.csproj.AssemblyReference.cache
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.AssemblyInfoInputs.cache
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.AssemblyInfo.cs
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.csproj.CoreCompileInputs.cache
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.dll
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\refint\Case68.dll
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.pdb
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\Case68.genruntimeconfig.cache
+C:\Users\Boss\Documents\Домашнее задание\Знакомство с языками программирования\SEMINAR_9\Case68\obj\Debug\net6.0\ref\Case68.dll
